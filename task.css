@@ -1,0 +1,149 @@
+
+h1{
+    font-weight: bolder;
+    line-height: 1.2;
+    text-align: left;
+    font-family: 'Brush script MT',cursive;
+}
+h2{
+    margin-bottom: 0.5rem;
+    font-family: 'HAndlee',cursive;
+    font-size: 55px;
+    line-height: 1.6;
+}
+.background-color{
+    background-color:lightseagreen;
+}
+.section-title{
+    font-weight: bolder;
+    font-family: sans-serif;
+    color: blue;
+    padding-top: 60px;
+    text-align: center;
+    padding-bottom: 30px ;
+    
+
+}
+.section-title1{
+    text-align: start;
+    padding: 0;
+    margin-right: 50px;
+    justify-content: baseline;
+    align-items:center;
+    color:blue;
+    font-weight: bolder;
+}
+.gradient-background-color{
+    background-color: lightgreen;
+    
+}
+ul .list{
+    display: inline;
+    margin-left: auto;
+    width:100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: auto;
+}
+.button {
+    background-color:gray; 
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+  }
+.button:hover {
+    color:black;
+}
+.img-fluid{
+    width: 400px;
+    height:200px;
+    margin-left: 120px;
+}
+.img-fluid1{
+    float: left;
+    margin-left: -2px;
+    padding: 20px;
+}
+.background-color{
+    background-color: lightgreen;
+}
+.SL-container1{
+    margin-left: 20px;
+    padding: 30px;
+}
+.SL-container2{
+    margin-left: 20px;
+    padding: 30px;
+}
+.SL-container{
+    margin-left: 20px;
+    padding: 30px;
+}
+.containter-ground{
+    margin-left: 80px;
+}
+.container4{
+    margin-left: 450px;
+    word-spacing: 20px;
+}
+.spider{
+    margin-left: 150px;
+    margin-top: 60px;
+}
+.kid{
+    margin-left:40px;
+    margin-top: 60px;
+}
+.book{
+    margin-left: 40px;
+    margin-top: 60px;
+
+}
+.children{
+    margin-left: 150px;
+    margin-top: 60px;
+}
+.kid1{
+    margin-left: 40px;
+    margin-top: 60px;
+}
+.kid2{
+    margin-left: 40px;
+    margin-top: 60px;
+}
+.professor{
+    margin-left: 200px;
+}
+.professor1{
+    margin-left: 40px;
+}
+.professor2{
+    margin-left: 40px;
+}
+.professor3{
+    margin-left: 40px;
+}
+.julia{
+    margin-left: 230px;
+    margin-top: 20px;
+}
+.Jhon{
+    margin-left: 470px;
+    margin-top: -60px;
+}
+.Mollie{
+    margin-left: 730px;
+    margin-top: -60px;
+}
+.Donald{
+    margin-left: 990px;
+    margin-top: -60px;
+}
+.carousel-item{
+    padding-right: 950px;
+    margin-left: 80px;
+}
